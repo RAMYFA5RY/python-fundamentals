@@ -1,5 +1,5 @@
 Note on Requirements File
-=========================
+==============================
 
 Note that I have purposely omitted including numpy, pandas, matplotlib and mplfinance in the downloadable version of the `reuirements.txt` file.
 
